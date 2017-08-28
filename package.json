@@ -1,0 +1,23 @@
+{
+  "name": "aws-codepipeline-demo",
+  "version": "1.0.0",
+  "description": "aws-codepipeline-demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geofsb/aws-codepipeline-demo.git"
+  },
+  "author": "Geofrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geofsb/aws-codepipeline-demo/issues"
+  },
+  "homepage": "https://github.com/geofsb/aws-codepipeline-demo#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
